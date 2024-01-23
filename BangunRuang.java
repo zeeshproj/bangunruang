@@ -64,7 +64,7 @@ public class BangunRuang {
                 break;
                 
             default:
-                System.out.println("Rumus tidak ada kontol");
+                System.out.println("Rumus tidak ada / tidak dapat ditemukan");
                 
                 
                 
